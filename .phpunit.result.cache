@@ -1,0 +1,1 @@
+{"version":1,"defects":{"FilterTest::testRandomFilter":4,"FilterTest::testWnamesFilter":3,"FilterTest::testCountWordsFilter":4},"times":{"FilterTest::testRandomFilter":0.003,"FilterTest::testWnamesFilter":0.003,"FilterTest::testCountWordsFilter":0}}
